@@ -1,0 +1,37 @@
+/* Eléments sélectors */
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 3em;
+}
+
+h2 {
+    color: blue;
+    font-size: 2em;
+}
+
+/* Class sélector */
+.grey {
+    background-color: grey;
+}
+
+.strong {
+    color: chartreuse;
+    font-weight: normal;
+}
+
+.em {
+    font-style: normal;
+    font-size: 1.5em;
+    color: orange;
+}
+
+/* ID sélector */
+#rose {
+    background-color: palevioletred
+}
+
+#titrearticle2 {
+    color: green;
+    text-align: right;
+}
